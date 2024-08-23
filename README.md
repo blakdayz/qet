@@ -1,7 +1,3 @@
-Here’s the complete `README.md` for your project, including the new service mode with FastAPI:
-
----
-
 # Quaternion Encryption Tool (QET)
 
 ## Overview
