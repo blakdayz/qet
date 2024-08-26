@@ -19,6 +19,7 @@
 
 1. **Visit the Releases Page**:
    - Go to the [QET releases page](https://github.com/blakdayz/qet/releases) and download the appropriate binary for your operating system.
+   - Only M Series Apple Devices are currently supportedc 
 
 ### Linux / macOS
 
